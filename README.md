@@ -1,4 +1,7 @@
 # InsertionSort
+
+https://app.patika.dev/cosmanylmz
+
 [22,27,16,2,18,6] -> Insertion Sort
 -----------------------------------------------------------
 [22,27,16,2,18,6] 22 den sonrası | index[0] ve index[1] 
